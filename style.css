@@ -1,0 +1,42 @@
+.header {
+    color:aqua;
+}
+
+body {
+    background-color:#121212;
+    color: white;
+}
+
+.container {
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.column {
+    padding: 10px;
+    margin: 10px;
+    flex: 1;
+}
+
+#general_info {
+    text-align: center;
+
+}
+
+.git_icon {
+    width: 30px;
+    height:auto
+}
+
+.email_icon {
+    width: 30px;
+    height:30px;
+    background-color: #121212;
+    color: #121212;
+}
+
+.resume_link {
+    color: greenyellow;
+}
